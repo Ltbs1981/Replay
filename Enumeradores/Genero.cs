@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace AutoEscola.Enumeradores
 {
-    public enum Menu
+    public enum Genero
     {
-        Cadastro = 1,
-        Listar = 2,
-        Remover = 3,
-        Buscar = 4,
-        Editar = 5,
+        Masculino = 1,
+        Feminino = 2,
     }
-
 }

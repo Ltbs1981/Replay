@@ -8,8 +8,8 @@ namespace AutoEscola.Enumeradores
 {
     public enum SubMenu
     {
-        Pessoa = 1,
-        Aluno = 2,
-        Instrutor = 3,
+        Pessoas = 1,
+        Clientes = 2,
+        Funcionarios = 3,
     }
 }
